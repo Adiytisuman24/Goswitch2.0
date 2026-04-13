@@ -1,0 +1,30 @@
+* @goswitch/maintainers
+
+docs/ @goswitch/maintainers
+scripts/ @goswitch/maintainers
+*.md @goswitch/maintainers
+*.sh @goswitch/maintainers
+LICENSE @goswitch/maintainers
+NOTICE @goswitch/maintainers
+.gitignore @goswitch/maintainers
+Makefile @goswitch/maintainers
+
+.github/ @goswitch/maintainers
+
+config/ @goswitch/maintainers
+crates/ @goswitch/maintainers
+migrations/ @goswitch/maintainers
+v2_migrations/ @goswitch/maintainers
+v2_compatible_migrations/ @goswitch/maintainers
+api-reference/ @goswitch/maintainers
+Cargo.toml @goswitch/maintainers
+Cargo.lock @goswitch/maintainers
+
+postman/ @goswitch/maintainers
+cypress-tests/ @goswitch/maintainers
+cypress-tests-v2/ @goswitch/maintainers
+
+Dockerfile @goswitch/maintainers
+docker-compose.yml @goswitch/maintainers
+.dockerignore @goswitch/maintainers
+monitoring/ @goswitch/maintainers
