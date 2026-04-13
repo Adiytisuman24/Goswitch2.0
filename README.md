@@ -165,7 +165,7 @@ Click to deploy via AWS:
 </a>
 <img src="./docs/imgs/features.png" />
 <img src="./docs/imgs/non-functional-features.png" />
-<img src="./docs/imgs/goswitch-architecture-v1.png" />
+<img src="./docs/imgs/goswitch-architecture.png" />
 
 ## Why Goswitch?
 
