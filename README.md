@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./docs/imgs/goswitch-logo-dark.svg" alt="Goswitch-Logo" width="40%" />
+  <img src="./docs/imgs/goswitch-logo.jpg" alt="Goswitch-Logo" width="40%" />
 </p>
 
 <h1 align="center">Goswitch: Composable Open-Source Payments Infrastructure</h1>
