@@ -217,12 +217,3 @@ Check the [CHANGELOG.md](./CHANGELOG.md) file for details.
 
 This product is licensed under the [Apache 2.0 License](LICENSE).
 
-<a href="#team-behind-goswitch">
-  <h2 id="team-behind-goswitch">Team behind Goswitch</h2>
-</a>
-
-The core team of 150+ engineers building Goswitch. Keep up the great work! 🥂
-
-<a href="https://github.com/goswitch/goswitch/graphs/contributors">
-  <img src="https://img.shields.io/badge/contributors-150%2B-blue" alt="Contributors"/>
-</a>
