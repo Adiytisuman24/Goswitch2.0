@@ -2,7 +2,7 @@
   <img src="./docs/imgs/goswitch-logo.jpg" alt="Goswitch-Logo" width="40%" />
 </p>
 
-<h1 align="center">Goswitch: Composable Open-Source Payments Infrastructure</h1>
+<h1 align="center">Goswitch: Composable  Payments Infrastructure</h1>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/goswitch/goswitch/main/docs/gifs/quickstart.gif" alt="Quickstart demo" />
